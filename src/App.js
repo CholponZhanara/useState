@@ -1,6 +1,6 @@
 
 import './App.css';
-// import ExpenseForm from './components/ExpenseForm';
+import ExpenseForm from './components/ExpenseForm';
 
 function App() {
   return (
